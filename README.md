@@ -97,5 +97,5 @@ Berikut insight dari analisis data:
 - **Sebagian besar buku** memiliki harga antara £10–£50.
 - Buku dengan **rating tinggi** sedikit lebih mahal.
 - Buku yang tersedia (`In Stock`) memiliki harga lebih beragam.
-- Kategori seperti **"Fiction"** dan **"Nonfiction"** memiliki jumlah buku terbanyak.
-- Kategori seperti **"Business"** dan **"Science"** memiliki harga rata-rata buku yang lebih tinggi.
+- Kategori seperti **"sequential art"** dan **"Nonfiction"** memiliki jumlah buku terbanyak.
+- Kategori seperti **"fantasy"** dan **"fiction"** memiliki harga rata-rata buku yang lebih tinggi.
