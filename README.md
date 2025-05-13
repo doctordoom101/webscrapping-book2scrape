@@ -12,6 +12,8 @@ Project ini bertujuan untuk melakukan **web scraping** dari website [Books to Sc
 
 Data yang dikumpulkan kemudian diolah dan divisualisasikan untuk menghasilkan insight bisnis yang relevan, seperti tren harga, rating, dan kategori buku terpopuler.
 
+![website](images/0_1.png)
+
 ---
 
 ## 🛠️ Tools & Library
@@ -46,12 +48,45 @@ Melakukan scraping untuk maksimal 2 halaman dari setiap kategori, dan mengambil 
 
 ### 4. **Analisis Data dan Visualisasi**
 Beberapa analisis yang dilakukan:
-- Distribusi harga buku
-- Distribusi rating buku
-- Harga rata-rata berdasarkan rating
-- Perbandingan harga buku yang tersedia vs tidak tersedia
-- Top 10 kategori dengan jumlah buku terbanyak
-- Harga rata-rata buku per kategori
+#### Distribusi Harga Buku
+Visualisasi distribusi harga dari semua buku:
+
+![Distribusi Harga](images/1.png)
+
+---
+
+#### Distribusi Rating Buku
+Jumlah buku berdasarkan rating:
+
+![Distribusi Rating](images/2.png)
+
+---
+
+#### Harga Rata-rata Berdasarkan Rating
+Perbandingan harga rata-rata berdasarkan rating buku:
+
+![Harga vs Rating](images/3.png)
+
+---
+
+#### Perbandingan Harga Buku yang Tersedia vs Tidak Tersedia
+Visualisasi harga buku berdasarkan status ketersediaan:
+
+![Harga Buku In/Out Stock](images/4.png)
+
+---
+
+#### Top 10 Kategori dengan Jumlah Buku Terbanyak
+Kategori buku paling banyak tersedia:
+
+![Top Kategori Buku](images/5.png)
+
+---
+
+#### Harga Rata-rata Buku per Kategori
+Harga rata-rata buku berdasarkan kategori terpopuler:
+
+![Harga per Kategori](images/6.png)
 
 ---
 
