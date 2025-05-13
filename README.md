@@ -64,8 +64,3 @@ Berikut insight dari analisis data:
 - Buku yang tersedia (`In Stock`) memiliki harga lebih beragam.
 - Kategori seperti **"Fiction"** dan **"Nonfiction"** memiliki jumlah buku terbanyak.
 - Kategori seperti **"Business"** dan **"Science"** memiliki harga rata-rata buku yang lebih tinggi.
-
----
-
-## 📁 Struktur File
-
