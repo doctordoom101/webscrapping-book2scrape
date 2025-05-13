@@ -26,7 +26,7 @@ Data yang dikumpulkan kemudian diolah dan divisualisasikan untuk menghasilkan in
 
 ---
 
-## 🔄 Alur Project
+## 🔄 Workflow
 
 ### 1. **Scraping Daftar Kategori Buku**
 Mengambil semua kategori buku dari sidebar navigasi website.
